@@ -1,0 +1,9 @@
+Building MetalMusicCoin3
+
+See doc/readme-qt.rst for instructions on building MetalMusicCoin3 QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MetalMusicCoin3.
+
+See doc/build-*.txt for instructions on building MetalMusicCoin3d,
+the intended-for-services, no-graphical-interface, reference
+implementation of MetalMusicCoin3.
